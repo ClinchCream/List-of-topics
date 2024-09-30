@@ -5,3 +5,5 @@
 
 ### [System Design Q&A repo](https://github.com/puncsky/system-design-and-architecture)
   #### [TianPan.com](https://tianpan.co/hacking-the-software-engineer-interview#scaling-facebook-social-graph-store)
+
+### [Algorithm and DSA revision sheet](https://github.com/tajpouria/algorithms-and-data-structures-cheat-sheet)
